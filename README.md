@@ -1,3 +1,3 @@
-# salarizadi.github.io
+## [Go to my portfolio](https://salarizadi.github.io)
 
-Hi there👋
+### Welcome to my portfolio and resume page♥
